@@ -14,3 +14,4 @@ return sequence === sequence.length
 
 # Do not edit the line below.
 exports.isValidSubsequence = isValidSubsequence;
+
